@@ -50,7 +50,7 @@ class FlendyAds_Admin {
 	public function __construct( $plugin_name, $version ) {
 
 		// $this->plugin_name = $plugin_name;
-		$this->plugin_name = 'FlendyAds';
+		$this->plugin_name = 'flendyads';
 		// $this->version = $version;
 		$this->version = '1.0.0';
 		add_action('admin_menu', array( $this, 'addPluginAdminMenu' ), 9);   
