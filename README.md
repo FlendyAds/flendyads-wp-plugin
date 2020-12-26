@@ -8,7 +8,7 @@ If you are not registered on FlendyAds, register at https://flendyads.com/accoun
 
 ## This plugin enables WordPress users to do the following:
 1. Insert ads
-2. determine place ad should diplay
+2. determine place ad should display
 3. define type & size of ad tou use
 4. See demo at https://flendyads.com/ads/demo
 
@@ -19,3 +19,16 @@ If you are not registered on FlendyAds, register at https://flendyads.com/accoun
 4. Click on Add New
 5. Click on Upload and Upload the zip file that you just downloaded
 6. Activate the plugin
+
+## How to use FlendyAds plugin
+1. Profile ID: This is your FlendyAds ID found in your FlendyAds dashboard under Settings
+2. Website: The URL of the website you want to use FlendyAds on.
+3. Classes & IDs: These insert tha ads in your website and are in the format
+[html element, id or class]-[ad type]-[ad data]
+# Classes & IDs Example
+-Copy and paste these examples in the Classes and IDs text boxes:
+body-square-picture,footer-leadboard-picture,#sidebar-square-video,#posts-mediumr-picture,.content-leadboard-picture,.nav-bllboard-picture
+
+## Documentation
+Visit the [online documentation](https://flendyads.com/docs/) for the most
+updated guide. Information will be added on a weekly basis.
