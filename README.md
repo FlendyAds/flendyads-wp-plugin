@@ -9,7 +9,7 @@ If you are not registered on FlendyAds, register at https://flendyads.com/accoun
 ## This plugin enables WordPress users to do the following:
 1. Insert ads
 2. determine place ad should display
-3. define type & size of ad tou use
+3. define type & size of ad to use
 4. See demo at https://flendyads.com/ads/demo
 
 ## Install the FlendyAds WordPress Plugin on Your WordPress Site
